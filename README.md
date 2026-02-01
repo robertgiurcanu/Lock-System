@@ -26,6 +26,4 @@ A fully modular digital combination lock implemented in SystemVerilog, designed 
 ## Usage
 
 - Connect push-buttons to `pb[20:0]` and observe `ss0`–`ss7` and LEDs for lock status.  
-- Provide a 100 Hz clock (`hz100`) and reset (`reset`) to operate.  
-
-This design highlights **modular hardware design and interactive digital logic**, suitable for both learning and demonstration purposes.
+- Provide a 100 Hz clock (`hz100`) and reset (`reset`) to operate.
